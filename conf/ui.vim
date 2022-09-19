@@ -3,7 +3,7 @@
 "
 
 " Theme settings
-colorscheme material
+"colorscheme material
 
 " NERDTree settings
 let NERDTreeShowHidden=1
